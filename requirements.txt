@@ -10,8 +10,6 @@ blinker==1.4
 boto3==1.23.5
 botocore==1.26.5
 cachetools==5.2.0
-# Editable install with no version control (cdqa==1.3.9)
--e c:\work\myqa\cdqa-master
 certifi==2022.5.18.1
 cffi==1.15.0
 charset-normalizer==2.0.12
